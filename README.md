@@ -13,3 +13,9 @@ Working with Home_Prices data set from Kaggle
         + Model_Three
             Imputing the missing values in numerical columns.
             Label encoding the categorical columns with low cardinality and no missing values.
+            
+    > Random Forest
+        * Using the RandomForestRegressor
+         + Model_One
+             Drop all features with missing values
+             Plus categorical features
