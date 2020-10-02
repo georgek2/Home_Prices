@@ -19,3 +19,5 @@ Working with Home_Prices data set from Kaggle
          + Model_One
              Drop all features with missing values
              Plus categorical features
+          + Model_One
+              Preprocessing using pipelines
